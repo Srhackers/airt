@@ -25,7 +25,7 @@ Each module includes a Docker-based lab environment. No cloud API keys needed â€
 
 ```bash
 # Clone the repo
-git clone https://github.com/0x4d31/airt.git
+git clone https://github.com/Srhackers/airt.git
 cd airt/labs
 
 # Start any lab (e.g., Lab 01)
